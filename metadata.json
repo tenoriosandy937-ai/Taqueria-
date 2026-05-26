@@ -1,0 +1,6 @@
+{
+  "name": "Taquería",
+  "description": "Punto de Venta de Taquería con sesión de Administrador, Cliente y Cocinero. Soporta órdenes, preparación por chefs, contratos de privacidad y cuenta principal de cobros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
